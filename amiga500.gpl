@@ -1,0 +1,46 @@
+GIMP Palette
+Name: amiga500_ocs32
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+ 34  34  34	coal
+ 68  68  68	slate
+102 102 102	gray
+136 136 136	light_gray
+170 170 170	silver
+204 204 204	pale_silver
+238 238 238	white
+ 24   0   0	dark_brown
+ 64   0   0	brick
+104   0   0	dark_red
+144   0   0	red
+184   0   0	bright_red
+224   0   0	crimson
+255  64  64	neon_red
+255 120 120	rose
+  0  24   0	dark_fir
+  0  64   0	forest
+  0 104   0	green
+  0 144   0	emerald
+  0 184   0	bright_green
+  0 224   0	neon_green
+ 64 255  64	mint
+120 255 120	pastel_green
+  0   0  24	navy_dark
+  0   0  64	navy
+  0   0 104	blue
+  0   0 144	cobalt
+  0   0 184	royal
+  0   0 224	sapphire
+ 64  64 255	ultra_blue
+120 120 255	periwinkle

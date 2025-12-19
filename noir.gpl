@@ -1,0 +1,30 @@
+GIMP Palette
+Name: noir_monochrome
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+ 10  10  10	noir_01
+ 21  21  21	noir_02
+ 34  34  34	noir_03
+ 47  47  47	noir_04
+ 59  59  59	noir_05
+ 71  71  71	noir_06
+ 85  85  85	noir_07
+ 99  99  99	noir_08
+113 113 113	noir_09
+127 127 127	noir_10
+141 141 141	noir_11
+155 155 155	noir_12
+169 169 169	noir_13
+183 183 183	noir_14
+197 197 197	noir_15
+245 245 245	paper

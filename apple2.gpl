@@ -1,0 +1,20 @@
+GIMP Palette
+Name: apple2_sixcolor
+Columns: 6
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+113  39  71	magenta
+ 58 180  73	green
+200  72  72	orange
+ 63  63 195	blue
+255 255 255	white

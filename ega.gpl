@@ -1,0 +1,30 @@
+GIMP Palette
+Name: ega
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+  0   0 170	blue
+  0 170   0	green
+  0 170 170	cyan
+170   0   0	red
+170   0 170	magenta
+170  85   0	brown
+170 170 170	light_gray
+ 85  85  85	dark_gray
+ 85  85 255	bright_blue
+ 85 255  85	bright_green
+ 85 255 255	bright_cyan
+255  85  85	bright_red
+255  85 255	bright_magenta
+255 255  85	yellow
+255 255 255	white

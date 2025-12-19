@@ -1,0 +1,22 @@
+GIMP Palette
+Name: teletext
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+255   0   0	red
+  0 255   0	green
+255 255   0	yellow
+  0   0 255	blue
+255   0 255	magenta
+  0 255 255	cyan
+255 255 255	white

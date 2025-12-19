@@ -1,0 +1,38 @@
+GIMP Palette
+Name: neo_geo_arcade24
+Columns: 6
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+ 36  28  52	night
+ 68  52  88	indigo
+108  80 136	violet
+156 120 188	lilac
+212 180 236	petal
+ 36  52  96	navy
+ 64  88 152	royal
+ 96 132 200	steel_blue
+148 188 252	ice_blue
+ 36  68  60	dark_teal
+ 72 112 100	sea_green
+112 168 156	mint
+160 216 204	pale_mint
+ 52  40  28	umber
+ 92  68  44	brown
+136  96  56	sienna
+192 140  72	ochre
+240 192 108	sand
+255 224 156	peach
+ 92  36  40	redwood
+152  48  68	ruby
+220  76 104	crimson
+255 136 156	rose

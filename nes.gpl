@@ -1,0 +1,70 @@
+GIMP Palette
+Name: nes_classic
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+124 124 124	gray
+  0  26  82	dark_navy
+  0   0 130	blue
+ 48   0 136	indigo
+ 92   0 126	violet
+124   0  94	magenta
+120   0  40	crimson
+ 72   0   0	dark_maroon
+ 20  30   0	dark_olive
+  0  46   0	dark_green
+  0  52   0	forest
+  0  52  60	teal
+  0   0   0	black
+188 188 188	light_gray
+  0  72 216	bright_blue
+ 72   0 218	bright_indigo
+148   0 132	bright_magenta
+202   0  84	hot_pink
+200  24   0	red
+132  60   0	russet
+ 76  76   0	olive
+  0 108   0	green
+  0 120   0	leaf
+  0 120 124	sea
+  0   0   0	black_dup
+248 248 248	white
+ 60 188 252	sky
+104 136 252	cornflower
+152 120 248	violet_light
+248 120 248	pink_light
+248  88 152	rose
+248 120  88	peach
+216 128  24	gold
+124 124   0	khaki
+  0 184   0	grass
+  0 200   0	neon_green
+  0 204 204	cyan
+ 68  68  68	coal
+188 188 188	gray_dup
+168 228 252	pale_sky
+198 212 252	ice
+212 200 252	lilac
+252 200 252	cotton
+252 188 196	blush
+252 208 176	apricot
+252 224 168	sand
+252 232 120	light_gold
+200 200   0	yellow_olive
+136 232 136	mint
+160 236 120	apple
+184 232 224	powder_cyan
+104 104 104	slate
+224 224 224	ash
+184 248 248	ocean_mist
+216 248 248	fog
+248 248 248	white_dup

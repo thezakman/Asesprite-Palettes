@@ -1,0 +1,30 @@
+GIMP Palette
+Name: gba_adv16
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+ 40  32  60	dusk
+ 68  52 104	midnight
+124  92 160	lavender
+188 152 212	pastel_purple
+252 216 248	pale_pink
+ 68  80 112	steel
+104 132 172	denim
+156 200 252	soft_sky
+220 244 252	cloud
+ 56  96  64	forest
+ 92 148  92	leaf
+152 212 120	mint
+220 240 152	pistachio
+212 148  84	ochre
+164 100  64	russet
+240 200 160	peach

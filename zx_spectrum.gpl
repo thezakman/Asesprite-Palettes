@@ -1,0 +1,29 @@
+GIMP Palette
+Name: zx_spectrum15
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+  0   0 205	blue
+205   0   0	red
+205   0 205	magenta
+  0 205   0	green
+  0 205 205	cyan
+205 205   0	yellow
+205 205 205	white
+  0   0 255	bright_blue
+255   0   0	bright_red
+255   0 255	bright_magenta
+  0 255   0	bright_green
+  0 255 255	bright_cyan
+255 255   0	bright_yellow
+255 255 255	bright_white

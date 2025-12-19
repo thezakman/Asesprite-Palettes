@@ -1,0 +1,30 @@
+GIMP Palette
+Name: c64_vice
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+255 255 255	white
+136  57  50	red
+103 182 189	cyan
+139  63 150	purple
+ 85 160  73	green
+ 64  49 141	blue
+191 206 114	yellow
+139  75  43	orange
+ 85  85  85	brown
+184 105  98	light_red
+ 80 125 204	medium_blue
+120  97 196	light_violet
+148 224 137	light_green
+120 105  60	light_blue_green
+159 159 159	light_gray

@@ -1,0 +1,30 @@
+GIMP Palette
+Name: sega_genesis_mega16
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+ 33  33  33	dark_gray
+ 66  66  66	slate
+ 99  99  99	gray
+132 132 132	light_gray
+165 165 165	silver
+198 198 198	pale_silver
+231 231 231	white
+ 33   0   0	dark_maroon
+ 99   0   0	maroon
+165   0   0	red
+231   0   0	bright_red
+  0  33   0	dark_fir
+  0  99   0	green
+  0 165   0	bright_green
+  0 231   0	neon_green

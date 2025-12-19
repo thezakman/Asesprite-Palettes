@@ -1,0 +1,63 @@
+GIMP Palette
+Name: snes_48_richer
+Columns: 6
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+ 12  18  36	night
+ 28  40  70	navy
+ 44  62 104	slate
+ 62  86 134	steel
+ 86 116 168	sky
+112 148 200	sky_light
+142 182 224	cloud
+188 218 244	ice
+236 244 252	white_ice
+ 40  26  44	aubergine
+ 64  44  76	plum
+ 88  64 110	violet
+112  88 148	orch_lilac
+142 120 180	lilac
+172 154 210	amethyst
+202 188 232	lavender
+232 216 248	petal
+ 68  30  30	brick
+ 94  44  36	clay
+122  60  46	sienna
+150  78  52	terra
+180 102  64	rust
+214 132  80	ochre
+238 164 110	peach_sand
+252 196 152	pearl_peach
+ 42  58  42	pine
+ 60  76  50	forest
+ 82 104  62	fern
+108 132  78	leaf
+138 166  98	meadow
+168 198 120	spring
+198 226 150	pastel_green
+228 244 188	cream_grass
+ 28  34  42	shadow_blue
+ 52  52  52	shadow
+ 76  76  76	graphite
+104 104 104	stone
+132 132 132	silver
+160 160 160	fog
+190 190 190	ash
+220 220 220	highlight
+ 24  48  56	deep_teal
+ 40  90 112	teal
+ 80 134 156	cool_cyan
+124 176 188	pale_cyan
+ 70  36  60	mulberry
+116  46  96	wine
+164  64 122	orch_pink
+216 100 152	bright_pink

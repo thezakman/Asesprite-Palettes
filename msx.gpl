@@ -1,0 +1,30 @@
+GIMP Palette
+Name: msx_vdp16
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+  0   0   0	transparency
+ 33 200  66	green
+ 94 220 120	light_green
+ 84  85 237	blue
+125 118 252	light_blue
+212  82  77	red
+255 119 119	light_red
+212 193  84	yellow
+230 206 128	light_yellow
+  0 139  75	cyan
+  0 171 181	light_cyan
+171  82  54	magenta
+255 163   0	orange
+255 240  36	lemon
+255 255 255	white

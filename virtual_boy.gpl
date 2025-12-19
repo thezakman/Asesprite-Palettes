@@ -1,0 +1,18 @@
+GIMP Palette
+Name: virtual_boy
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+ 85   0   0	dark_red
+170   0   0	medium_red
+255   0   0	bright_red

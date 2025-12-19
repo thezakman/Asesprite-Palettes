@@ -1,0 +1,39 @@
+GIMP Palette
+Name: pc98_24
+Columns: 6
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  8  12  32	night
+ 28  36  68	navy
+ 52  60 100	slate
+ 76  92 140	steel
+104 120 176	sky
+136 152 208	sky_light
+172 188 232	ice
+216 224 248	paper
+ 60  32  48	wine
+ 92  52  72	plum
+124  76 100	mauve
+160 108 132	pink_brown
+198 144 160	dust_rose
+234 188 196	peach_rose
+ 52  28  20	umber
+ 84  48  32	brown
+128  76  44	sienna
+176 116  64	ochre
+220 160 100	pale_sand
+248 204 144	soft_peach
+ 40  64  44	pine
+ 68  92  56	fern
+104 132  76	leaf
+152 184 112	spring
+192 220 148	mint

@@ -1,0 +1,30 @@
+GIMP Palette
+Name: forest_trail
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+ 11  29  19	deep_moss
+ 19  48  34	night_fir
+ 31  71  53	dark_pine
+ 47 111  79	spruce
+ 61 139 110	mist_teal
+ 80 160 125	fresh_mint
+123 207 169	fern_light
+181 241 213	dew
+ 74  59  47	bark
+112  86  61	woodland
+154 123  84	oak
+199 168 127	cedar
+227 207 178	sand
+143 158 111	lichen
+216 227 145	spring_meadow
+241 243 194	headlight

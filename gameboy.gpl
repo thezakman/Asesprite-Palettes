@@ -1,0 +1,18 @@
+GIMP Palette
+Name: gb_classic
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+ 15  56  15	dark_green
+ 48  98  48	mid_green
+139 172  15	light_green
+155 188  15	pale_green

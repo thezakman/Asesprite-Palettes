@@ -1,0 +1,30 @@
+GIMP Palette
+Name: atari2600_16
+Columns: 4
+#
+#
+# --------------------------------------------
+# Created by TheZakMan.
+# (c)2025 TheZakMan.  All Rights Reserved.
+# --------------------------------------------
+#
+# https://tzm.ink
+# https://github.com/thezakman/Asesprite-Palettes
+#
+#
+  0   0   0	black
+ 68  68  68	dark_gray
+136 136 136	gray
+204 204 204	light_gray
+255 255 255	white
+ 48  20   0	brown
+104  44   0	rust
+156  72   0	amber
+208 104   0	orange
+240 160  16	gold
+255 208  96	sand
+  0  40  72	navy
+  0  80 136	teal
+  0 128 192	cyan
+  0 176 112	green
+ 24 120  24	forest
